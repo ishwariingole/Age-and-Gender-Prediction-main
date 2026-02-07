@@ -145,7 +145,7 @@ This project does not include a license in the notebook. If you want to publish 
 
 
 ## Contact
-Author: Ayush Gaikwad
+Author: Ishwari Ingole
 Project file: `age-and-gender-detection.ipynb`
 
 If you want this README adjusted (shorter/longer, different sections, or to include exact commands and dataset references from the notebook), tell me which parts to expand and I will update it.
